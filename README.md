@@ -1,7 +1,7 @@
 # TI-Apps
-These are a bunch of various programs I made for my TI-84 graphing calculator. They are usually adaptions of common mathemathical functions, but they might be something else...
+These are a bunch of various programs I made for my TI-84 graphing calculator. They are usually adaptions of common mathemathical functions, just so you don't need to do bitch work.
 
-When I get yelled at for not doing my english essay, you'll know exactly why :P
+Granted, one could argue that I could just actually do the math instead of creating programs to do it for me..
 
 # COSLAW
 This app is an adaption of the cosine law. It has 4 inputs:
